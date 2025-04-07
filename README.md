@@ -8,7 +8,7 @@ HLD System Design concepts
   - Introduction to Distributed Systems
   - [Basic concepts & theorems](DistributedSystems/BasicConceptsAndTheorems.md/#basic-concepts--theorems)
     - [Partitioning](DistributedSystems/BasicConceptsAndTheorems.md/#partitioning)
-    - [Replication](DistributedSystems/BasicConceptsAndTheorems.md/#partitioning)
+    - [Replication](DistributedSystems/BasicConceptsAndTheorems.md/#replication)
     - [ACID Transactions](DistributedSystems/BasicConceptsAndTheorems.md/#acid-transactions)
     - [The CAP theorem](DistributedSystems/BasicConceptsAndTheorems.md/#the-cap-theorem)
   - Distributed Transactions
