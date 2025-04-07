@@ -1,0 +1,11 @@
+# Basic concepts & theorems
+
+## Introduction
+
+## Partitioning
+
+## Replication
+
+## ACID Transactions
+
+## The CAP theorem
